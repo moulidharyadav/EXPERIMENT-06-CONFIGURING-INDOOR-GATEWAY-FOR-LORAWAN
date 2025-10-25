@@ -1,4 +1,7 @@
-# EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
+## Name : T.Rishabh srivatsav
+## Roll No : 25001966
+## Date : 25-10-25
+## EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
 ## Aim: 
 
@@ -118,7 +121,22 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 
-## OUTPUT 
+## OUTPUT :
+ 
+## website  Login : </br>
+<img width="1920" height="1200" alt="Screenshot 2025-10-25 030313" src="https://github.com/user-attachments/assets/b2762982-2c5d-4c65-8a22-9aade0497413" /> </br>
+## wifi status :</br>
+<img width="1920" height="1200" alt="Screenshot 2025-10-25 030009" src="https://github.com/user-attachments/assets/cea05a60-ccfd-4829-a13c-07b62ced5f8b" /></br>
+## LORA configuration :</br>
+<img width="1920" height="1200" alt="Screenshot 2025-10-25 025949" src="https://github.com/user-attachments/assets/9a6b7c74-a239-47da-9013-2b000c4c2179" /></br>
+## Wifi Access point :</br> 
+<img width="1912" height="1013" alt="Screenshot 2025-10-25 023933" src="https://github.com/user-attachments/assets/e5af626f-f5ae-4eae-b9b4-c0a3c0760ab7" /></br>
+
+
+
+
+
+
 
 
 
