@@ -1,6 +1,5 @@
-## Name : T.Rishabh srivatsav
-## Roll No : 25001966
-## Date : 25-10-25
+## Name : MOULIDHAR.G
+## Roll No : 212223240042
 ## EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
 ## Aim: 
